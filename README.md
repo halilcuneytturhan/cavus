@@ -1,13 +1,12 @@
  [![MasterHead](https://media.istockphoto.com/id/1221293660/tr/foto%C4%9Fraf/programlama-kodu-soyut-teknoloji-arka-plan-yaz%C4%B1l%C4%B1m-geli%C5%9Ftiricisi-ve-bilgisayar-script.jpg?s=612x612&w=0&k=20&c=qjviS5QcNu1El4OfMLggbzvgUNYakURIZukR82KtEkI=)
 
 <h1 align="center">Hi 👋, I'm Halil Cüneyt TURHAN</h1>
-<h3 align="center">A passionate WEB developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **React, .net**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **halilcavuss21@gmail.com**
+- 📫 How to reach me **halilcuneytturhan@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
